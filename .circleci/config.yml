@@ -23,7 +23,7 @@ jobs:
           name: install dependencies
           command: |
             npm install
-            npm install percy-cli
+            gem install percy-cli
 
 
 
